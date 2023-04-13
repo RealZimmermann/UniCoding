@@ -1,6 +1,0 @@
-,competition_id,competition_code,name,type,sub_type,country_id,country_name,country_latitude,country_longitude,domestic_league_code,confederation,url
-0,L1,bundesliga,Bundesliga,domestic_league,first_tier,40,Germany,51.1638175,10.4478313,L1,europa,https://www.transfermarkt.co.uk/bundesliga/startseite/wettbewerb/L1
-8,ES1,laliga,Laliga,domestic_league,first_tier,157,Spain,39.3260685,-4.8379791,ES1,europa,https://www.transfermarkt.co.uk/laliga/startseite/wettbewerb/ES1
-14,FR1,ligue-1,Ligue 1,domestic_league,first_tier,50,France,46.603354,1.8883335,FR1,europa,https://www.transfermarkt.co.uk/ligue-1/startseite/wettbewerb/FR1
-16,GB1,premier-league,Premier League,domestic_league,first_tier,189,England,52.5310214,-1.2649062,GB1,europa,https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/GB1
-28,IT1,serie-a,Serie A,domestic_league,first_tier,75,Italy,42.6384261,12.674297,IT1,europa,https://www.transfermarkt.co.uk/serie-a/startseite/wettbewerb/IT1
