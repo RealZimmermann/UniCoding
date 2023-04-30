@@ -8,8 +8,6 @@ club_id,club_code,name,domestic_competition_id,stadium_name,stadium_seats
 1627,catania-calcio,Catania Calcio,IT1,Cibali - Angelo Massimino,20016
 1423,fc-valenciennes,Fc Valenciennes,FR1,Stade du Hainaut,25000
 750,fc-sochaux-montbeliard,Fc Sochaux Montbeliard,FR1,Stade Auguste-Bonal,20005
-1147,ac-ajaccio,Ac Ajaccio,FR1,Stade François-Coty,10446
-3302,ud-almeria,Ud Almeria,ES1,Power Horse Stadium,15274
 993,fc-cordoba,Fc Cordoba,ES1,Nuevo Arcángel,21822
 1429,cesena-fc,Cesena Fc,IT1,Orogel Stadium - Dino Manuzzi,23860
 1039,queens-park-rangers,Queens Park Rangers,GB1,Loftus Road Stadium,18360
@@ -38,15 +36,11 @@ club_id,club_code,name,domestic_competition_id,stadium_name,stadium_seats
 603,cardiff-city,Cardiff City,GB1,Cardiff City Stadium,33280
 1162,sm-caen,Sm Caen,FR1,Stade Michel-d'Ornano,20500
 1110,huddersfield-town,Huddersfield Town,GB1,John Smith's Stadium,24500
-12321,fc-girona,Fc Girona,ES1,Municipal de Montilivi,11286
 42,hannover-96,Hannover 96,L1,HDI-Arena,49000
 4,1-fc-nurnberg,1 Fc Nurnberg,L1,Max-Morlock-Stadion,50000
 19,brescia-calcio,Brescia Calcio,IT1,Mario Rigamonti,19550
-1005,us-lecce,Us Lecce,IT1,Ettore Giardiniero,31559
 2722,spal,Spal,IT1,Paolo Mazza,16134
-989,afc-bournemouth,Afc Bournemouth,GB1,Vitality Stadium,11329
 1244,cd-leganes,Cd Leganes,ES1,Municipal de Butarque,12454
-415,fc-toulouse,Fc Toulouse,FR1,Stadium Municipal,33150
 38,fortuna-dusseldorf,Fortuna Dusseldorf,L1,MERKUR SPIEL-ARENA,54600
 1416,amiens-sc,Amiens Sc,FR1,Stade Crédit Agricole la Licorne,12999
 127,sc-paderborn-07,Sc Paderborn 07,L1,Benteler-Arena,15000
@@ -55,109 +49,119 @@ club_id,club_code,name,domestic_competition_id,stadium_name,stadium_seats
 4083,fc-crotone,Fc Crotone,IT1,Ezio Scida,16640
 130,parma-calcio-1913,Parma Calcio 1913,IT1,Ennio Tardini,22352
 984,west-bromwich-albion,West Bromwich Albion,GB1,The Hawthorns,26850
-931,fc-fulham,Fc Fulham,GB1,Craven Cottage,19000
 1533,sd-eibar,Sd Eibar,ES1,Ipurua,8164
-366,real-valladolid,Real Valladolid,ES1,Estadio Nuevo José Zorrilla,27618
 5358,sd-huesca,Sd Huesca,ES1,El Alcoraz,9128
 350,sheffield-united,Sheffield United,GB1,Bramall Lane,32702
 2969,dijon-fco,Dijon Fco,FR1,Stade Gaston-Gérard,16098
-86,sv-werder-bremen,Sv Werder Bremen,L1,Wohninvest-Weserstadion,42100
-33,fc-schalke-04,Fc Schalke 04,L1,Veltins-Arena,62271
-583,fc-paris-saint-germain,Fc Paris Saint Germain,FR1,Parc des Princes,49691
-3524,clermont-foot-63,Clermont Foot 63,FR1,Stade Gabriel-Montpied,13000
 347,fc-metz,Fc Metz,FR1,Stade Saint-Symphorien,26700
 65,spvgg-greuther-furth,Spvgg Greuther Furth,L1,Sportpark Ronhof | Thomas Sommer,16626
-80,vfl-bochum,Vfl Bochum,L1,Vonovia Ruhrstadion,27599
-1095,es-troyes-ac,Es Troyes Ac,FR1,Stade de l'Aube,21877
 1132,fc-burnley,Fc Burnley,GB1,Turf Moor,21994
-1158,fc-lorient,Fc Lorient,FR1,Stade du Moustoir,19010
-3522,spezia-calcio,Spezia Calcio,IT1,Alberto Picco,11512
-1420,sco-angers,Sco Angers,FR1,Stade Raymond Kopa,16381
-749,fc-empoli,Fc Empoli,IT1,Carlo Castellani,19847
-276,hellas-verona,Hellas Verona,IT1,Marcantonio Bentegodi,39211
-416,fc-turin,Fc Turin,IT1,Stadio Grande Torino,27994
-1038,sampdoria-genua,Sampdoria Genua,IT1,Luigi Ferraris,36348
-6574,us-sassuolo,Us Sassuolo,IT1,Mapei Stadium - Città del Tricolore,21584
-398,lazio-rom,Lazio Rom,IT1,Olimpico di Roma,73261
-800,atalanta-bergamo,Atalanta Bergamo,IT1,Gewiss Stadium,22512
-12,as-rom,As Rom,IT1,Olimpico di Roma,73261
-410,udinese-calcio,Udinese Calcio,IT1,Dacia Arena,25144
-46,inter-mailand,Inter Mailand,IT1,Giuseppe Meazza,75923
 607,venezia-fc,Venezia Fc,IT1,Pier Luigi Penzo,11150
-5,ac-mailand,Ac Mailand,IT1,Giuseppe Meazza,75923
-1025,fc-bologna,Fc Bologna,IT1,Stadio Renato Dall’Ara,36462
-380,us-salernitana-1919,Us Salernitana 1919,IT1,Arechi,31300
 1390,cagliari-calcio,Cagliari Calcio,IT1,Unipol Domus,16416
-506,juventus-turin,Juventus Turin,IT1,Allianz Stadium,41507
 252,genua-cfc,Genua Cfc,IT1,Luigi Ferraris,34901
-430,ac-florenz,Ac Florenz,IT1,Artemio Franchi,47282
-6195,ssc-neapel,Ssc Neapel,IT1,Stadio Diego Armando Maradona,54726
 1123,norwich-city,Norwich City,GB1,Carrow Road,27244
 1010,fc-watford,Fc Watford,GB1,Vicarage Road,21577
-873,crystal-palace,Crystal Palace,GB1,Selhurst Park,26047
-1148,fc-brentford,Fc Brentford,GB1,Brentford Community Stadium,17250
-399,leeds-united,Leeds United,GB1,Elland Road,37890
-1237,brighton-amp-hove-albion,Brighton Amp Hove Albion,GB1,AMEX Stadium,31800
-543,wolverhampton-wanderers,Wolverhampton Wanderers,GB1,Molineux Stadium,32050
-29,fc-everton,Fc Everton,GB1,Goodison Park,39571
-180,fc-southampton,Fc Southampton,GB1,St Mary's Stadium,32384
-11,fc-arsenal,Fc Arsenal,GB1,Emirates Stadium,60704
-405,aston-villa,Aston Villa,GB1,Villa Park,42682
-985,manchester-united,Manchester United,GB1,Old Trafford,74879
-631,fc-chelsea,Fc Chelsea,GB1,Stamford Bridge,40853
-31,fc-liverpool,Fc Liverpool,GB1,Anfield,54074
-281,manchester-city,Manchester City,GB1,Etihad Stadium,55017
-367,rayo-vallecano,Rayo Vallecano,ES1,Campo de Fútbol de Vallecas,15105
-2687,fc-cadiz,Fc Cadiz,ES1,Nuevo Mirandilla,21094
 1108,deportivo-alaves,Deportivo Alaves,ES1,Mendizorrotza,19840
-1003,leicester-city,Leicester City,GB1,King Power Stadium,32273
 16795,fc-granada,Fc Granada,ES1,Nuevo Los Cármenes,19336
-331,ca-osasuna,Ca Osasuna,ES1,El Sadar,23576
-940,celta-vigo,Celta Vigo,ES1,Balaídos,29000
-714,espanyol-barcelona,Espanyol Barcelona,ES1,RCDE Stadium,40500
-3709,fc-getafe,Fc Getafe,ES1,Coliseum Alfonso Pérez,16800
-621,athletic-bilbao,Athletic Bilbao,ES1,San Mamés,53289
-762,newcastle-united,Newcastle United,GB1,St James' Park,52338
-1049,fc-valencia,Fc Valencia,ES1,Mestalla,48600
-368,fc-sevilla,Fc Sevilla,ES1,Ramón Sánchez-Pizjuán,43883
-681,real-sociedad-san-sebastian,Real Sociedad San Sebastian,ES1,Reale Arena,39500
-148,tottenham-hotspur,Tottenham Hotspur,GB1,Tottenham Hotspur Stadium,62062
-13,atletico-madrid,Atletico Madrid,ES1,Wanda Metropolitano,68456
-131,fc-barcelona,Fc Barcelona,ES1,Camp Nou,99354
-418,real-madrid,Real Madrid,ES1,Santiago Bernabéu,81044
-89,1-fc-union-berlin,1 Fc Union Berlin,L1,Stadion An der Alten Försterei,22012
-379,west-ham-united,West Ham United,GB1,London Stadium,60000
-167,fc-augsburg,Fc Augsburg,L1,WWK ARENA,30660
 10,arminia-bielefeld,Arminia Bielefeld,L1,SchücoArena,26515
-44,hertha-bsc,Hertha Bsc,L1,Olympiastadion Berlin,74649
-60,sc-freiburg,Sc Freiburg,L1,Europa-Park Stadion,34700
-237,rcd-mallorca,Rcd Mallorca,ES1,Son Moix,20500
-1531,fc-elche,Fc Elche,ES1,Manuel Martínez Valero,33732
-39,1-fsv-mainz-05,1 Fsv Mainz 05,L1,Mewa Arena,33305
-3,1-fc-koln,1 Fc Koln,L1,RheinEnergieSTADION,50000
-24,eintracht-frankfurt,Eintracht Frankfurt,L1,Deutsche Bank Park,51500
-1050,fc-villarreal,Fc Villarreal,ES1,La Cerámica,23500
-23826,rasenballsport-leipzig,Rasenballsport Leipzig,L1,Red Bull Arena,47069
-82,vfl-wolfsburg,Vfl Wolfsburg,L1,Volkswagen Arena,30000
-27,fc-bayern-munchen,Fc Bayern Munchen,L1,Allianz Arena,75024
-79,vfb-stuttgart,Vfb Stuttgart,L1,Mercedes-Benz Arena,60449
-18,borussia-monchengladbach,Borussia Monchengladbach,L1,Stadion im Borussia-Park,54022
-533,tsg-1899-hoffenheim,Tsg 1899 Hoffenheim,L1,PreZero Arena,30150
 3368,ud-levante,Ud Levante,ES1,Ciutat de València,25354
-150,real-betis-sevilla,Real Betis Sevilla,ES1,Benito Villamarín,59378
-16,borussia-dortmund,Borussia Dortmund,L1,SIGNAL IDUNA PARK,81365
-15,bayer-04-leverkusen,Bayer 04 Leverkusen,L1,BayArena,30210
 40,fc-girondins-bordeaux,Fc Girondins Bordeaux,FR1,Matmut Atlantique,42052
-3911,stade-brest-29,Stade Brest 29,FR1,Stade Francis-Le Blé,15097
 618,as-saint-etienne,As Saint Etienne,FR1,Stade Geoffroy-Guichard,42000
-1082,losc-lille,Losc Lille,FR1,Stade Pierre-Mauroy,50186
+417,ogc-nizza,Ogc Nizza,FR1,Allianz Riviera,36178
+80,vfl-bochum,Vfl Bochum,L1,Vonovia Ruhrstadion,26000
+1148,fc-brentford,Fc Brentford,GB1,Brentford Community Stadium,17250
+1237,brighton-amp-hove-albion,Brighton Amp Hove Albion,GB1,AMEX Stadium,31800
+180,fc-southampton,Fc Southampton,GB1,St Mary's Stadium,32384
+543,wolverhampton-wanderers,Wolverhampton Wanderers,GB1,Molineux Stadium,32050
+405,aston-villa,Aston Villa,GB1,Villa Park,42682
+931,fc-fulham,Fc Fulham,GB1,Craven Cottage,22384
+379,west-ham-united,West Ham United,GB1,London Stadium,62500
+399,leeds-united,Leeds United,GB1,Elland Road,37890
+148,tottenham-hotspur,Tottenham Hotspur,GB1,Tottenham Hotspur Stadium,62062
+985,manchester-united,Manchester United,GB1,Old Trafford,74879
+703,nottingham-forest,Nottingham Forest,GB1,The City Ground,30445
+11,fc-arsenal,Fc Arsenal,GB1,Emirates Stadium,60704
+631,fc-chelsea,Fc Chelsea,GB1,Stamford Bridge,40853
+1003,leicester-city,Leicester City,GB1,King Power Stadium,32273
+29,fc-everton,Fc Everton,GB1,Goodison Park,39571
+762,newcastle-united,Newcastle United,GB1,St James' Park,52338
+31,fc-liverpool,Fc Liverpool,GB1,Anfield,54074
+873,crystal-palace,Crystal Palace,GB1,Selhurst Park,26047
+281,manchester-city,Manchester City,GB1,Etihad Stadium,55017
+989,afc-bournemouth,Afc Bournemouth,GB1,Vitality Stadium,11329
+2239,us-cremonese,Us Cremonese,IT1,Giovanni Zini,16003
+276,hellas-verona,Hellas Verona,IT1,Marcantonio Bentegodi,39211
+3522,spezia-calcio,Spezia Calcio,IT1,Alberto Picco,11676
+1005,us-lecce,Us Lecce,IT1,Ettore Giardiniero,31559
+380,us-salernitana-1919,Us Salernitana 1919,IT1,Arechi,29739
+749,fc-empoli,Fc Empoli,IT1,Carlo Castellani,19847
+2919,ac-monza,Ac Monza,IT1,U-Power Stadium - Brianteo,15039
+1025,fc-bologna,Fc Bologna,IT1,Stadio Renato Dall’Ara,36462
+410,udinese-calcio,Udinese Calcio,IT1,Dacia Arena,25144
+6574,us-sassuolo,Us Sassuolo,IT1,Mapei Stadium - Città del Tricolore,21584
+398,lazio-rom,Lazio Rom,IT1,Olimpico di Roma,73261
+12,as-rom,As Rom,IT1,Olimpico di Roma,73261
+800,atalanta-bergamo,Atalanta Bergamo,IT1,Gewiss Stadium,19768
+506,juventus-turin,Juventus Turin,IT1,Allianz Stadium,41507
+46,inter-mailand,Inter Mailand,IT1,Giuseppe Meazza,75923
+5,ac-mailand,Ac Mailand,IT1,Giuseppe Meazza,75923
+416,fc-turin,Fc Turin,IT1,Stadio Olimpico Grande Torino,28177
+1038,sampdoria-genua,Sampdoria Genua,IT1,Luigi Ferraris,36348
+6195,ssc-neapel,Ssc Neapel,IT1,Stadio Diego Armando Maradona,54726
+430,ac-florenz,Ac Florenz,IT1,Artemio Franchi,43147
+86,sv-werder-bremen,Sv Werder Bremen,L1,Wohninvest-Weserstadion,42100
+3,1-fc-koln,1 Fc Koln,L1,RheinEnergieSTADION,50000
+39,1-fsv-mainz-05,1 Fsv Mainz 05,L1,Mewa Arena,33305
+79,vfb-stuttgart,Vfb Stuttgart,L1,Mercedes-Benz Arena,60449
+167,fc-augsburg,Fc Augsburg,L1,WWK ARENA,30660
+89,1-fc-union-berlin,1 Fc Union Berlin,L1,Stadion An der Alten Försterei,22012
+33,fc-schalke-04,Fc Schalke 04,L1,Veltins-Arena,62271
+82,vfl-wolfsburg,Vfl Wolfsburg,L1,Volkswagen Arena,30000
+18,borussia-monchengladbach,Borussia Monchengladbach,L1,Stadion im Borussia-Park,54042
+15,bayer-04-leverkusen,Bayer 04 Leverkusen,L1,BayArena,30210
+23826,rasenballsport-leipzig,Rasenballsport Leipzig,L1,Red Bull Arena,47069
+27,fc-bayern-munchen,Fc Bayern Munchen,L1,Allianz Arena,75024
+60,sc-freiburg,Sc Freiburg,L1,Europa-Park Stadion,34700
+533,tsg-1899-hoffenheim,Tsg 1899 Hoffenheim,L1,PreZero Arena,30150
+44,hertha-bsc,Hertha Bsc,L1,Olympiastadion Berlin,74667
+16,borussia-dortmund,Borussia Dortmund,L1,SIGNAL IDUNA PARK,81365
+24,eintracht-frankfurt,Eintracht Frankfurt,L1,Deutsche Bank Park,51500
+237,rcd-mallorca,Rcd Mallorca,ES1,Mallorca Son Moix,20500
+367,rayo-vallecano,Rayo Vallecano,ES1,Campo de Fútbol de Vallecas,15105
+714,espanyol-barcelona,Espanyol Barcelona,ES1,RCDE Stadium,40500
+12321,fc-girona,Fc Girona,ES1,Montilivi,13286
+331,ca-osasuna,Ca Osasuna,ES1,El Sadar,23576
+940,celta-vigo,Celta Vigo,ES1,Abanca Balaídos,29000
+3302,ud-almeria,Ud Almeria,ES1,Power Horse Stadium,15274
+1049,fc-valencia,Fc Valencia,ES1,Mestalla,48600
+3709,fc-getafe,Fc Getafe,ES1,Coliseum Alfonso Pérez,16800
+150,real-betis-sevilla,Real Betis Sevilla,ES1,Benito Villamarín,59378
+1050,fc-villarreal,Fc Villarreal,ES1,La Cerámica,23500
+621,athletic-bilbao,Athletic Bilbao,ES1,San Mamés,53289
+681,real-sociedad-san-sebastian,Real Sociedad San Sebastian,ES1,Reale Arena,39313
+368,fc-sevilla,Fc Sevilla,ES1,Ramón Sánchez-Pizjuán,43883
+1147,ac-ajaccio,Ac Ajaccio,FR1,Stade François-Coty,10446
+3524,clermont-foot-63,Clermont Foot 63,FR1,Stade Gabriel-Montpied,13000
+290,aj-auxerre,Aj Auxerre,FR1,Stade de l'Abbé-Deschamps,18541
+3911,stade-brest-29,Stade Brest 29,FR1,Stade Francis-Le Blé,15097
+1095,es-troyes-ac,Es Troyes Ac,FR1,Stade de l'Aube,21877
+415,fc-toulouse,Fc Toulouse,FR1,Stadium Municipal,33150
+1158,fc-lorient,Fc Lorient,FR1,Stade du Moustoir,19010
+1421,stade-reims,Stade Reims,FR1,Stade Auguste-Delaune,21684
+667,rc-strassburg-alsace,Rc Strassburg Alsace,FR1,Stade de la Meinau,29000
+969,montpellier-hsc,Montpellier Hsc,FR1,Stade de la Mosson,32939
+1531,fc-elche,Fc Elche,ES1,Manuel Martínez Valero,31388
+826,rc-lens,Rc Lens,FR1,Stade Bollaert-Delelis,38223
+366,real-valladolid,Real Valladolid,ES1,Nuevo José Zorrilla,27618
+1082,losc-lille,Losc Lille,FR1,Decathlon Arena-Stade Pierre-Mauroy,50186
+2687,fc-cadiz,Fc Cadiz,ES1,Nuevo Mirandilla,21094
+418,real-madrid,Real Madrid,ES1,Santiago Bernabéu,81044
+1041,olympique-lyon,Olympique Lyon,FR1,Groupama Stadium,59186
+162,as-monaco,As Monaco,FR1,Stade Louis-II,18523
+273,fc-stade-rennes,Fc Stade Rennes,FR1,Roazhon Park,29778
+1420,sco-angers,Sco Angers,FR1,Stade Raymond Kopa,19350
+583,fc-paris-saint-germain,Fc Paris Saint Germain,FR1,Parc des Princes,49691
+13,atletico-madrid,Atletico Madrid,ES1,Civitas Metropolitano,68456
+131,fc-barcelona,Fc Barcelona,ES1,Spotify Camp Nou,99354
 995,fc-nantes,Fc Nantes,FR1,Stade de la Beaujoire,37463
 244,olympique-marseille,Olympique Marseille,FR1,Orange Vélodrome,67394
-273,fc-stade-rennes,Fc Stade Rennes,FR1,Roazhon Park,29778
-162,as-monaco,As Monaco,FR1,Stade Louis-II,18523
-826,rc-lens,Rc Lens,FR1,Stade Bollaert-Delelis,38223
-969,montpellier-hsc,Montpellier Hsc,FR1,Stade de la Mosson,32939
-1041,olympique-lyon,Olympique Lyon,FR1,Groupama Stadium,59186
-1421,stade-reims,Stade Reims,FR1,Stade Auguste-Delaune,21684
-417,ogc-nizza,Ogc Nizza,FR1,Allianz Riviera,36178
-667,rc-strassburg-alsace,Rc Strassburg Alsace,FR1,Stade de la Meinau,29000
