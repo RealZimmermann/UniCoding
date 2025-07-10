@@ -36,32 +36,32 @@ int main() {
 
     cout << "\n=== Aufgabe 2 ===" << endl;
     cout << "Test des Standardkonstruktors:" << endl;
-    CVektor50 meinVektor1;
-    meinVektor1.display();
+    CVektor50 vektor1;
+    vektor1.display();
 
     cout << "\nTest des Konstruktors mit Parameter:" << endl;
-    CVektor50 meinVektor2(5);
-    meinVektor2.display();
+    CVektor50 vektor2(5);
+    vektor2.display();
 
     cout << "\nTest der Sortiermethode:" << endl;
-    meinVektor2.sortiere();
-    meinVektor2.display();
+    vektor2.sortiere();
+    vektor2.display();
 
     cout << "\nTest der Einfüge-Methode:" << endl;
-    meinVektor2.add(2, 99);
-    meinVektor2.display();
-    meinVektor2.add(0, 10);
-    meinVektor2.display();
-    meinVektor2.add(meinVektor2.getAnzahlElemente(), 5);
-    meinVektor2.display();
+    vektor2.add(2, 99);
+    vektor2.display();
+    vektor2.add(0, 10);
+    vektor2.display();
+    vektor2.add(vektor2.getAnzahlElemente(), 5);
+    vektor2.display();
 
     cout << "\nTest der Loesch-Methode:" << endl;
-    meinVektor2.remove(3);
-    meinVektor2.display();
-    meinVektor2.remove(0);
-    meinVektor2.display();
-    meinVektor2.remove(meinVektor2.getAnzahlElemente() - 1);
-    meinVektor2.display();
+    vektor2.remove(3);
+    vektor2.display();
+    vektor2.remove(0);
+    vektor2.display();
+    vektor2.remove(vektor2.getAnzahlElemente() - 1);
+    vektor2.display();
 
     cout << "\nWeitere Tests:" << endl;
     CVektor50 vollerVektor(50);
